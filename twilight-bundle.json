@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "Test",
+        "en": "test"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "maged.ghabour2016@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/Maged-Ghabour/tw-test",
+    "components": []
+}
